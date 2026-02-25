@@ -1,0 +1,251 @@
+2026-02-24 09:20:45.178 +01:00 [INF] Application starting
+2026-02-24 09:20:45.372 +01:00 [INF] Simulation activated : false
+2026-02-24 09:20:45.537 +01:00 [FTL] Start application failed
+System.IO.FileNotFoundException: Impossible de charger le fichier ou l'assembly 'TwinCAT.Ads, Version=4.3.0.0, Culture=neutral, PublicKeyToken=180016cd49e5e8c3' ou une de ses dépendances. Le fichier spécifié est introuvable.
+Nom de fichier : 'TwinCAT.Ads, Version=4.3.0.0, Culture=neutral, PublicKeyToken=180016cd49e5e8c3'
+   à Dr7Hmi.Bootstrapper.InitializeIOsSystem(Machine machine, Boolean simulation)
+   à BetaComponents.BaseBootstrapper`1.Initialize()
+
+=== Informations d'état de liaison préalable ===
+JRN : DisplayName = TwinCAT.Ads, Version=4.3.0.0, Culture=neutral, PublicKeyToken=180016cd49e5e8c3
+ (Fully-specified)
+JRN : Appbase = file:///C:/Users/icham/OneDrive/Bureau/DR7/DR7HMI/bin/Debug/
+JRN : PrivatePath initial = NULL
+Assembly appelant : BetaComponents, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null.
+===
+JRN : cette liaison démarre dans le contexte de chargement de default.
+JRN : utilisation du fichier de configuration de l'application : C:\Users\icham\OneDrive\Bureau\DR7\DR7HMI\bin\Debug\Dr7Hmi.exe.Config
+JRN : utilisation du fichier de configuration d'hôte : 
+JRN : utilisation du fichier de configuration de l'ordinateur à partir de C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config.
+JRN : référence post-stratégie : TwinCAT.Ads, Version=4.3.0.0, Culture=neutral, PublicKeyToken=180016cd49e5e8c3
+JRN : tentative de téléchargement de la nouvelle URL file:///C:/Users/icham/OneDrive/Bureau/DR7/DR7HMI/bin/Debug/TwinCAT.Ads.DLL.
+JRN : tentative de téléchargement de la nouvelle URL file:///C:/Users/icham/OneDrive/Bureau/DR7/DR7HMI/bin/Debug/TwinCAT.Ads/TwinCAT.Ads.DLL.
+JRN : tentative de téléchargement de la nouvelle URL file:///C:/Users/icham/OneDrive/Bureau/DR7/DR7HMI/bin/Debug/TwinCAT.Ads.EXE.
+JRN : tentative de téléchargement de la nouvelle URL file:///C:/Users/icham/OneDrive/Bureau/DR7/DR7HMI/bin/Debug/TwinCAT.Ads/TwinCAT.Ads.EXE.
+
+2026-02-24 09:31:09.705 +01:00 [INF] Application starting
+2026-02-24 09:31:09.990 +01:00 [INF] Simulation activated : false
+2026-02-24 09:31:10.091 +01:00 [FTL] Start application failed
+System.IO.FileNotFoundException: Impossible de charger le fichier ou l'assembly 'TwinCAT.Ads, Version=4.3.0.0, Culture=neutral, PublicKeyToken=180016cd49e5e8c3' ou une de ses dépendances. Le fichier spécifié est introuvable.
+Nom de fichier : 'TwinCAT.Ads, Version=4.3.0.0, Culture=neutral, PublicKeyToken=180016cd49e5e8c3'
+   à Dr7Hmi.Bootstrapper.InitializeIOsSystem(Machine machine, Boolean simulation)
+   à BetaComponents.BaseBootstrapper`1.Initialize()
+
+=== Informations d'état de liaison préalable ===
+JRN : DisplayName = TwinCAT.Ads, Version=4.3.0.0, Culture=neutral, PublicKeyToken=180016cd49e5e8c3
+ (Fully-specified)
+JRN : Appbase = file:///C:/Users/icham/OneDrive/Bureau/DR7/DR7HMI/bin/Debug/
+JRN : PrivatePath initial = NULL
+Assembly appelant : BetaComponents, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null.
+===
+JRN : cette liaison démarre dans le contexte de chargement de default.
+JRN : utilisation du fichier de configuration de l'application : C:\Users\icham\OneDrive\Bureau\DR7\DR7HMI\bin\Debug\Dr7Hmi.exe.Config
+JRN : utilisation du fichier de configuration d'hôte : 
+JRN : utilisation du fichier de configuration de l'ordinateur à partir de C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config.
+JRN : référence post-stratégie : TwinCAT.Ads, Version=4.3.0.0, Culture=neutral, PublicKeyToken=180016cd49e5e8c3
+JRN : tentative de téléchargement de la nouvelle URL file:///C:/Users/icham/OneDrive/Bureau/DR7/DR7HMI/bin/Debug/TwinCAT.Ads.DLL.
+JRN : tentative de téléchargement de la nouvelle URL file:///C:/Users/icham/OneDrive/Bureau/DR7/DR7HMI/bin/Debug/TwinCAT.Ads/TwinCAT.Ads.DLL.
+JRN : tentative de téléchargement de la nouvelle URL file:///C:/Users/icham/OneDrive/Bureau/DR7/DR7HMI/bin/Debug/TwinCAT.Ads.EXE.
+JRN : tentative de téléchargement de la nouvelle URL file:///C:/Users/icham/OneDrive/Bureau/DR7/DR7HMI/bin/Debug/TwinCAT.Ads/TwinCAT.Ads.EXE.
+
+2026-02-24 09:42:50.894 +01:00 [INF] Application starting
+2026-02-24 09:42:51.056 +01:00 [INF] Simulation activated : false
+2026-02-24 09:42:51.133 +01:00 [FTL] Start application failed
+System.IO.FileNotFoundException: Impossible de charger le fichier ou l'assembly 'TwinCAT.Ads, Version=4.3.0.0, Culture=neutral, PublicKeyToken=180016cd49e5e8c3' ou une de ses dépendances. Le fichier spécifié est introuvable.
+Nom de fichier : 'TwinCAT.Ads, Version=4.3.0.0, Culture=neutral, PublicKeyToken=180016cd49e5e8c3'
+   à Dr7Hmi.Bootstrapper.InitializeIOsSystem(Machine machine, Boolean simulation)
+   à BetaComponents.BaseBootstrapper`1.Initialize()
+
+=== Informations d'état de liaison préalable ===
+JRN : DisplayName = TwinCAT.Ads, Version=4.3.0.0, Culture=neutral, PublicKeyToken=180016cd49e5e8c3
+ (Fully-specified)
+JRN : Appbase = file:///C:/Users/icham/OneDrive/Bureau/DR7/DR7HMI/bin/Debug/
+JRN : PrivatePath initial = NULL
+Assembly appelant : BetaComponents, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null.
+===
+JRN : cette liaison démarre dans le contexte de chargement de default.
+JRN : utilisation du fichier de configuration de l'application : C:\Users\icham\OneDrive\Bureau\DR7\DR7HMI\bin\Debug\Dr7Hmi.exe.Config
+JRN : utilisation du fichier de configuration d'hôte : 
+JRN : utilisation du fichier de configuration de l'ordinateur à partir de C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config.
+JRN : référence post-stratégie : TwinCAT.Ads, Version=4.3.0.0, Culture=neutral, PublicKeyToken=180016cd49e5e8c3
+JRN : tentative de téléchargement de la nouvelle URL file:///C:/Users/icham/OneDrive/Bureau/DR7/DR7HMI/bin/Debug/TwinCAT.Ads.DLL.
+JRN : tentative de téléchargement de la nouvelle URL file:///C:/Users/icham/OneDrive/Bureau/DR7/DR7HMI/bin/Debug/TwinCAT.Ads/TwinCAT.Ads.DLL.
+JRN : tentative de téléchargement de la nouvelle URL file:///C:/Users/icham/OneDrive/Bureau/DR7/DR7HMI/bin/Debug/TwinCAT.Ads.EXE.
+JRN : tentative de téléchargement de la nouvelle URL file:///C:/Users/icham/OneDrive/Bureau/DR7/DR7HMI/bin/Debug/TwinCAT.Ads/TwinCAT.Ads.EXE.
+
+2026-02-24 09:58:24.265 +01:00 [INF] Application starting
+2026-02-24 09:58:24.788 +01:00 [INF] Simulation activated : false
+2026-02-24 09:58:26.189 +01:00 [FTL] Start application failed
+System.MissingMethodException: Méthode introuvable : 'Boolean IOSystemTwincatForComponents.IOSystemTwincatForComponents.MapCustomInput(Int32, Framework.Input, TwinCAT.TypeSystem.ISymbol, System.Collections.Generic.List`1<System.String>, Byte[])'.
+   à Dr7Hmi.Bootstrapper.InitializeIOsSystem(Machine machine, Boolean simulation)
+   à BetaComponents.BaseBootstrapper`1.Initialize()
+2026-02-24 09:59:24.010 +01:00 [INF] Application starting
+2026-02-24 09:59:24.436 +01:00 [INF] Simulation activated : false
+2026-02-24 09:59:24.499 +01:00 [FTL] Start application failed
+System.MissingMethodException: Méthode introuvable : 'Boolean IOSystemTwincatForComponents.IOSystemTwincatForComponents.MapCustomInput(Int32, Framework.Input, TwinCAT.TypeSystem.ISymbol, System.Collections.Generic.List`1<System.String>, Byte[])'.
+   à Dr7Hmi.Bootstrapper.InitializeIOsSystem(Machine machine, Boolean simulation)
+   à BetaComponents.BaseBootstrapper`1.Initialize()
+2026-02-24 10:06:15.952 +01:00 [INF] Application starting
+2026-02-24 10:06:16.271 +01:00 [INF] Simulation activated : false
+2026-02-24 10:06:16.370 +01:00 [FTL] Start application failed
+System.MissingMethodException: Méthode introuvable : 'Boolean IOSystemTwincatForComponents.IOSystemTwincatForComponents.MapCustomInput(Int32, Framework.Input, TwinCAT.TypeSystem.ISymbol, System.Collections.Generic.List`1<System.String>, Byte[])'.
+   à Dr7Hmi.Bootstrapper.InitializeIOsSystem(Machine machine, Boolean simulation)
+   à BetaComponents.BaseBootstrapper`1.Initialize()
+2026-02-24 10:40:37.683 +01:00 [INF] Application starting
+2026-02-24 10:40:38.011 +01:00 [INF] Simulation activated : false
+2026-02-24 10:40:38.100 +01:00 [FTL] Start application failed
+System.MissingMethodException: Méthode introuvable : 'Boolean IOSystemTwincatForComponents.IOSystemTwincatForComponents.MapCustomInput(Int32, Framework.Input, TwinCAT.TypeSystem.ISymbol, System.Collections.Generic.List`1<System.String>, Byte[])'.
+   à Dr7Hmi.Bootstrapper.InitializeIOsSystem(Machine machine, Boolean simulation)
+   à BetaComponents.BaseBootstrapper`1.Initialize()
+2026-02-24 10:41:20.715 +01:00 [INF] Application starting
+2026-02-24 10:41:21.091 +01:00 [INF] Simulation activated : false
+2026-02-24 10:41:21.275 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 10:41:21.678 +01:00 [INF] Application started
+2026-02-24 11:10:43.891 +01:00 [INF] Application starting
+2026-02-24 11:10:44.165 +01:00 [INF] Simulation activated : false
+2026-02-24 11:10:44.238 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 11:10:44.322 +01:00 [INF] Application started
+2026-02-24 11:12:00.918 +01:00 [INF] Application starting
+2026-02-24 11:12:01.310 +01:00 [INF] Simulation activated : false
+2026-02-24 11:12:01.450 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 11:12:01.565 +01:00 [INF] Application started
+2026-02-24 11:34:05.197 +01:00 [INF] Application starting
+2026-02-24 11:34:05.307 +01:00 [INF] Simulation activated : false
+2026-02-24 11:34:05.345 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 11:34:05.383 +01:00 [INF] Application started
+2026-02-24 13:32:28.996 +01:00 [INF] Application starting
+2026-02-24 13:32:29.363 +01:00 [INF] Simulation activated : false
+2026-02-24 13:32:29.510 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 13:32:29.636 +01:00 [INF] Application started
+2026-02-24 13:34:06.382 +01:00 [INF] Application starting
+2026-02-24 13:34:06.662 +01:00 [INF] Simulation activated : false
+2026-02-24 13:34:06.774 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 13:34:06.855 +01:00 [INF] Application started
+2026-02-24 13:56:23.960 +01:00 [INF] Application starting
+2026-02-24 13:56:24.311 +01:00 [INF] Simulation activated : false
+2026-02-24 13:56:24.445 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 13:56:24.553 +01:00 [INF] Application started
+2026-02-24 13:57:28.708 +01:00 [INF] Application starting
+2026-02-24 13:57:29.018 +01:00 [INF] Simulation activated : false
+2026-02-24 13:57:29.114 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 13:57:29.354 +01:00 [INF] Application started
+2026-02-24 13:58:15.108 +01:00 [INF] Application starting
+2026-02-24 13:58:15.338 +01:00 [INF] Simulation activated : false
+2026-02-24 13:58:15.599 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 13:59:01.108 +01:00 [INF] Application starting
+2026-02-24 13:59:05.116 +01:00 [INF] Simulation activated : false
+2026-02-24 13:59:05.246 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 13:59:05.343 +01:00 [INF] Application started
+2026-02-24 14:22:24.408 +01:00 [INF] Application starting
+2026-02-24 14:22:27.969 +01:00 [INF] Simulation activated : false
+2026-02-24 14:22:28.035 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 14:22:28.100 +01:00 [INF] Application started
+2026-02-24 14:25:28.087 +01:00 [INF] Application starting
+2026-02-24 14:25:28.426 +01:00 [INF] Simulation activated : false
+2026-02-24 14:25:28.550 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 14:25:28.658 +01:00 [INF] Application started
+2026-02-24 14:27:02.027 +01:00 [INF] Application starting
+2026-02-24 14:27:02.406 +01:00 [INF] Simulation activated : false
+2026-02-24 14:27:02.509 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 14:27:02.734 +01:00 [INF] Application started
+2026-02-24 14:39:14.803 +01:00 [INF] Application starting
+2026-02-24 14:39:15.310 +01:00 [INF] Simulation activated : false
+2026-02-24 14:39:15.494 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 14:39:15.799 +01:00 [INF] Application started
+2026-02-24 14:44:02.237 +01:00 [INF] Application starting
+2026-02-24 14:44:02.596 +01:00 [INF] Simulation activated : false
+2026-02-24 14:44:02.749 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 14:44:02.899 +01:00 [INF] Application started
+2026-02-24 14:50:00.113 +01:00 [INF] Application starting
+2026-02-24 14:50:00.619 +01:00 [INF] Simulation activated : false
+2026-02-24 14:50:00.768 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 14:50:00.915 +01:00 [INF] Application started
+2026-02-24 15:03:25.155 +01:00 [INF] Application starting
+2026-02-24 15:03:25.585 +01:00 [INF] Simulation activated : false
+2026-02-24 15:03:25.859 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 15:03:26.032 +01:00 [INF] Application started
+2026-02-24 15:03:42.791 +01:00 [INF] Application starting
+2026-02-24 15:03:43.425 +01:00 [INF] Simulation activated : false
+2026-02-24 15:03:43.922 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 15:03:44.513 +01:00 [INF] Application started
+2026-02-24 15:04:43.472 +01:00 [ERR] Framework.ThreadingSystem : Not managed exception while dispatching task Meca500BehaviourSimulation.
+System.Exception: Error from line : 
+   à Dr7Hmi.Meca500JogController.<>c__DisplayClass19_0.<MoveLinRelWrf>b__0() dans C:\Users\icham\OneDrive\Bureau\DR7\DR7HMI\Models\Robots\Meca500JogController.cs:ligne 111
+   à Dr7Hmi.Meca500JogController.ExecuteIfRobotActivated(Action action) dans C:\Users\icham\OneDrive\Bureau\DR7\DR7HMI\Models\Robots\Meca500JogController.cs:ligne 100
+   à Dr7Hmi.Meca500JogController.MoveLinRelWrf(Double dxInMm, Double dyInMm, Double dzInMm, Double drxInDeg, Double dryInDeg, Double drzInDeg) dans C:\Users\icham\OneDrive\Bureau\DR7\DR7HMI\Models\Robots\Meca500JogController.cs:ligne 110
+   à Dr7Hmi.Meca500JogController.StepXp() dans C:\Users\icham\OneDrive\Bureau\DR7\DR7HMI\Models\Robots\Meca500JogController.cs:ligne 116
+   à System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   à System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   à System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   à FrameworkUI.UserActionFactory.<>c__DisplayClass1_0.<CreateUserAction>b__13()
+   à FrameworkUI.UserActionFactory.<>c__DisplayClass1_0.<CreateUserAction>g__callMethodAndShowResult|1(MethodInfo methodInfo, Func`1 call)
+   à FrameworkUI.UserAction.Click()
+   à Framework.ThreadingSystem.<>c__DisplayClass13_0.<Dispatch>b__0(Object info)
+   à System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   à System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   à System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   à System.Threading.ThreadPoolWorkQueue.Dispatch()
+ ---> System.Exception: Cannot cross singularity while doing a MoveLin
+   à MECA500.Meca500BehaviourSimulation.DirectMoveLin(Double x, Double y, Double z, Double rxInDeg, Double ryInDeg, Double rzInDeg)
+   à MECA500.Meca500BehaviourSimulation.<>c__DisplayClass61_0.<MoveLinRelWrf>b__0()
+   à MECA500.Meca500BehaviourSimulation.CyclicExecute()
+   --- Fin de la trace de la pile d'exception interne ---
+   à MECA500.Meca500BehaviourSimulation.CyclicExecute()
+   à Framework.ThreadingSystem.<>c__DisplayClass13_0.<Dispatch>b__0(Object info)
+2026-02-24 15:04:43.546 +01:00 [INF] Système d'exécution Add notification "2026-02-24T14:04:43.4844457Z", 0, 0, Exception non gérée dans une action
+2026-02-24 15:23:27.112 +01:00 [INF] Application starting
+2026-02-24 15:23:28.108 +01:00 [INF] Simulation activated : false
+2026-02-24 15:23:28.372 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 15:23:28.585 +01:00 [INF] Application started
+2026-02-24 15:37:59.537 +01:00 [INF] Application starting
+2026-02-24 15:37:59.777 +01:00 [INF] Simulation activated : false
+2026-02-24 15:37:59.869 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 15:37:59.967 +01:00 [INF] Application started
+2026-02-24 15:42:23.267 +01:00 [INF] Application starting
+2026-02-24 15:42:23.560 +01:00 [INF] Simulation activated : false
+2026-02-24 15:42:23.682 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 15:42:23.817 +01:00 [INF] Application started
+2026-02-24 15:57:56.196 +01:00 [INF] Application starting
+2026-02-24 15:57:56.660 +01:00 [INF] Simulation activated : false
+2026-02-24 15:57:56.811 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 15:57:56.927 +01:00 [INF] Application started
+2026-02-24 15:58:48.779 +01:00 [INF] Application starting
+2026-02-24 15:58:49.100 +01:00 [INF] Simulation activated : false
+2026-02-24 15:58:49.283 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 15:58:49.531 +01:00 [INF] Application started
+2026-02-24 15:59:59.495 +01:00 [INF] Application starting
+2026-02-24 15:59:59.778 +01:00 [INF] Simulation activated : false
+2026-02-24 16:00:00.068 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 16:00:00.330 +01:00 [INF] Application started
+2026-02-24 16:00:37.067 +01:00 [INF] Application starting
+2026-02-24 16:00:37.352 +01:00 [INF] Simulation activated : false
+2026-02-24 16:00:37.688 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 16:00:38.364 +01:00 [INF] Application started
+2026-02-24 16:09:34.331 +01:00 [INF] Application starting
+2026-02-24 16:09:35.032 +01:00 [INF] Simulation activated : false
+2026-02-24 16:09:35.218 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 16:09:35.527 +01:00 [INF] Application started
+2026-02-24 16:17:14.956 +01:00 [INF] Application starting
+2026-02-24 16:17:15.151 +01:00 [INF] Simulation activated : false
+2026-02-24 16:17:15.334 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 16:17:15.466 +01:00 [INF] Application started
+2026-02-24 16:20:11.199 +01:00 [INF] User logged out
+2026-02-24 16:20:15.221 +01:00 [INF] User log in failed
+2026-02-24 16:20:46.291 +01:00 [INF] Application starting
+2026-02-24 16:20:47.273 +01:00 [INF] Simulation activated : false
+2026-02-24 16:20:47.583 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 16:20:47.876 +01:00 [INF] Application started
+2026-02-24 16:21:09.400 +01:00 [INF] User logged out
+2026-02-24 16:21:10.343 +01:00 [INF] User log in failed
+2026-02-24 16:21:24.979 +01:00 [INF] Application starting
+2026-02-24 16:21:25.529 +01:00 [INF] Simulation activated : false
+2026-02-24 16:21:25.874 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 16:21:26.174 +01:00 [INF] Application started
+2026-02-24 16:23:14.317 +01:00 [INF] Application starting
+2026-02-24 16:23:14.777 +01:00 [INF] Simulation activated : false
+2026-02-24 16:23:14.926 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 16:23:15.059 +01:00 [INF] Application started
+2026-02-24 16:25:32.094 +01:00 [INF] Application starting
+2026-02-24 16:25:32.556 +01:00 [INF] Simulation activated : false
+2026-02-24 16:25:32.647 +01:00 [INF] Forced log in with level HUMARD
+2026-02-24 16:25:32.794 +01:00 [INF] Application started

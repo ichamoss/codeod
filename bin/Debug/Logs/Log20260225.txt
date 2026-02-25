@@ -1,0 +1,44 @@
+2026-02-25 08:12:31.553 +01:00 [INF] Application starting
+2026-02-25 08:12:32.080 +01:00 [INF] Simulation activated : false
+2026-02-25 08:12:32.244 +01:00 [INF] Forced log in with level HUMARD
+2026-02-25 08:12:32.466 +01:00 [INF] Application started
+2026-02-25 08:34:34.733 +01:00 [INF] Application starting
+2026-02-25 08:34:35.032 +01:00 [INF] Simulation activated : false
+2026-02-25 08:34:35.268 +01:00 [INF] Forced log in with level HUMARD
+2026-02-25 08:34:35.417 +01:00 [INF] Application started
+2026-02-25 08:35:59.243 +01:00 [ERR] FrameworkUI.UserAction : User action terminated with an exception.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Exception: [1005] The robot is not activated.
+   at MECA500.Meca500BehaviourSimulation.CheckConditionsForMotion()
+   at MECA500.Meca500BehaviourSimulation.SetTrf(Double x, Double y, Double z, Double rxInDeg, Double ryInDeg, Double rzInDeg)
+   at Dr7Hmi.Robot.SetTrfGripper1() in C:\Users\icham\OneDrive\Bureau\DR7\DR7HMI\Models\Robots\Robot.cs:line 24
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at FrameworkUI.UserActionFactory.<>c__DisplayClass1_0.<CreateUserAction>b__13()
+   at FrameworkUI.UserActionFactory.<>c__DisplayClass1_0.<CreateUserAction>g__callMethodAndShowResult|1(MethodInfo methodInfo, Func`1 call)
+   at FrameworkUI.UserAction.Click()
+2026-02-25 08:40:55.909 +01:00 [INF] Application starting
+2026-02-25 08:40:56.243 +01:00 [INF] Simulation activated : false
+2026-02-25 08:40:56.521 +01:00 [INF] Forced log in with level HUMARD
+2026-02-25 08:40:56.629 +01:00 [INF] Application started
+2026-02-25 08:42:19.912 +01:00 [ERR] FrameworkUI.UserAction : User action terminated with an exception.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Exception: [1005] The robot is not activated.
+   at MECA500.Meca500BehaviourSimulation.CheckConditionsForMotion()
+   at MECA500.Meca500BehaviourSimulation.SetWrf(Double x, Double y, Double z, Double rxInDeg, Double ryInDeg, Double rzInDeg)
+   at Dr7Hmi.Robot.SetFramePlate() in C:\Users\icham\OneDrive\Bureau\DR7\DR7HMI\Models\Robots\Robot.cs:line 27
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at FrameworkUI.UserActionFactory.<>c__DisplayClass1_0.<CreateUserAction>b__13()
+   at FrameworkUI.UserActionFactory.<>c__DisplayClass1_0.<CreateUserAction>g__callMethodAndShowResult|1(MethodInfo methodInfo, Func`1 call)
+   at FrameworkUI.UserAction.Click()
+2026-02-25 08:43:18.094 +01:00 [INF] Application starting
+2026-02-25 08:43:18.415 +01:00 [INF] Simulation activated : false
+2026-02-25 08:43:18.556 +01:00 [INF] Forced log in with level HUMARD
+2026-02-25 08:43:18.788 +01:00 [INF] Application started
+2026-02-25 10:01:41.463 +01:00 [INF] Application starting
+2026-02-25 10:01:42.081 +01:00 [INF] Simulation activated : false
+2026-02-25 10:01:42.288 +01:00 [INF] Forced log in with level HUMARD
+2026-02-25 10:01:42.526 +01:00 [INF] Application started
